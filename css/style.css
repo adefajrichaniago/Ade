@@ -1689,9 +1689,6 @@ footer .footer .copyright a:hover{
 
     .wrapper.top_60{
         margin-top: 30px;
-        position: fixed;
-        width: 100%;
-        z-index: 1000;
     }
 
     .services .service{
